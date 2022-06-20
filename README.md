@@ -7,3 +7,11 @@
 1. Откройте ваш пакетный менеджер и добавьте в него следующие репозитории:
     - Karen Repo: cydia.akemi.ai
     - Merona Repo: repo.co.kr
+
+2. Из вышеперечисленных репозиториев вам понадобится установить данные пакеты:
+    1. Karen Repo:
+        - AppSync Unified
+    2. Merona Repo:
+        - A-Bypass
+
+    
